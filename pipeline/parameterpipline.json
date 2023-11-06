@@ -101,6 +101,9 @@
 			},
 			"pp_directory_out": {
 				"type": "string"
+			},
+			"pp_directory_archieve": {
+				"type": "string"
 			}
 		},
 		"annotations": []
