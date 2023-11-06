@@ -14,9 +14,9 @@
 				"folderPath": "project/output",
 				"fileSystem": "adlsgen2container"
 			},
-			"columnDelimiter": "\t",
+			"columnDelimiter": ",",
 			"escapeChar": "\\",
-			"firstRowAsHeader": false,
+			"firstRowAsHeader": true,
 			"quoteChar": "\""
 		},
 		"schema": []
