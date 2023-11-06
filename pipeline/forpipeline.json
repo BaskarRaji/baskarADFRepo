@@ -16,6 +16,17 @@
 				"userProperties": []
 			}
 		],
+		"parameters": {
+			"pp_file_system": {
+				"type": "string"
+			},
+			"pp_directory_input": {
+				"type": "string"
+			},
+			"pp_file_name": {
+				"type": "string"
+			}
+		},
 		"annotations": []
 	}
 }
