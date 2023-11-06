@@ -57,7 +57,7 @@
 								"type": "Expression"
 							},
 							"ds_directory": {
-								"value": "@pipeline().parameters.pp_directory",
+								"value": "@pipeline().parameters.pp_directory_in",
 								"type": "Expression"
 							},
 							"ds_file_name": {
@@ -74,6 +74,14 @@
 						"parameters": {
 							"ds_file_system": {
 								"value": "@pipeline().parameters.pp_file_system",
+								"type": "Expression"
+							},
+							"ds_directory": {
+								"value": "@pipeline().parameters.pp_directory_out",
+								"type": "Expression"
+							},
+							"ds_file_name": {
+								"value": "@pipeline().parameters.pp_file_name",
 								"type": "Expression"
 							}
 						}
