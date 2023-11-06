@@ -6,16 +6,16 @@
 			"type": "LinkedServiceReference"
 		},
 		"parameters": {
-			"ds_file_system": {
+			"PP_file_system": {
 				"type": "string"
 			},
-			"ds_directory_in": {
+			"PP_directory_in": {
 				"type": "string"
 			},
-			"ds_file_name": {
+			"PP_file_name": {
 				"type": "string"
 			},
-			"ds_directory_out": {
+			"PP_directory_out": {
 				"type": "string"
 			}
 		},
