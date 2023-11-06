@@ -9,10 +9,13 @@
 			"ds_file_system": {
 				"type": "string"
 			},
-			"ds_directory": {
+			"ds_directory_in": {
 				"type": "string"
 			},
 			"ds_file_name": {
+				"type": "string"
+			},
+			"ds_directory_out": {
 				"type": "string"
 			}
 		},
