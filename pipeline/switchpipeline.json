@@ -30,6 +30,17 @@
 				}
 			}
 		],
+		"parameters": {
+			"sw_file_system": {
+				"type": "string"
+			},
+			"sw_directory_in": {
+				"type": "string"
+			},
+			"sw_file_name": {
+				"type": "string"
+			}
+		},
 		"annotations": []
 	}
 }
