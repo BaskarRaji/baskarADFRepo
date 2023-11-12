@@ -55,7 +55,7 @@
 						"parameters": {
 							"ds_file_system": "adlsgen2container",
 							"ds_directory": "project/input",
-							"ds_file_name": "SalesLTProduct.txt"
+							"ds_file_name": "dbsqlcsv.txt"
 						}
 					}
 				]
