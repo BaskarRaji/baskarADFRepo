@@ -60,13 +60,8 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "paradatasettxtcsv",
-						"type": "DatasetReference",
-						"parameters": {
-							"ds_file_system": "adlsgen2container",
-							"ds_directory": "project/output/csvfolder",
-							"ds_file_name": "SalesLTProduct.csv"
-						}
+						"referenceName": "DelimitedText3",
+						"type": "DatasetReference"
 					}
 				]
 			}
