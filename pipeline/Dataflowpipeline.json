@@ -60,7 +60,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "paradataset",
+						"referenceName": "paradatasettxtcsv",
 						"type": "DatasetReference",
 						"parameters": {
 							"ds_file_system": "adlsgen2container",
